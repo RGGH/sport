@@ -1,5 +1,5 @@
 # sport
-
+[![Python application](https://github.com/RGGH/sport/actions/workflows/python-app.yml/badge.svg)](https://github.com/RGGH/sport/actions/workflows/python-app.yml)
 ## Example project structure created with "Poetry" 
 ---
 ### 
@@ -15,9 +15,6 @@
     $ poetry add requests
     $ poetry export --output requirements.txt
 
-
-
-[![Python application](https://github.com/RGGH/sport/actions/workflows/python-app.yml/badge.svg)](https://github.com/RGGH/sport/actions/workflows/python-app.yml)
 
 ![sport](https://github.com/RGGH/Misc/blob/master/s4.png)
 
