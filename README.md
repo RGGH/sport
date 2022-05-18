@@ -14,4 +14,3 @@
 https://realpython.com/pypi-publish-python-package/#poetry
 
 https://python-poetry.org/
-https://github.com/RGGH/Misc/blob/master/s4.png
