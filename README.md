@@ -9,6 +9,13 @@
 ---
 
 `$ poetry new --src sport`
+`# change to lower dir that contains pyproject.toml then start virtual env`
+`$ poetry shell`
+`$ poetry env list`
+`$ poetry add requests`
+`poetry export --output requirements.txt`
+
+
 
 [![Python application](https://github.com/RGGH/sport/actions/workflows/python-app.yml/badge.svg)](https://github.com/RGGH/sport/actions/workflows/python-app.yml)
 
