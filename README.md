@@ -22,6 +22,5 @@
 ![sport](https://github.com/RGGH/Misc/blob/master/s4.png)
 
 https://realpython.com/pypi-publish-python-package/#poetry
-
 https://python-poetry.org/
-poetry export --output requirements.txt
+
