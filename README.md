@@ -8,12 +8,12 @@
     Run pytest on every push
 ---
 
-`$ poetry new --src sport
-`# change to lower dir that contains pyproject.toml then start virtual env
-`$ poetry shell
-`$ poetry env list
-`$ poetry add requests
-`poetry export --output requirements.txt
+    $ poetry new --src sport
+    # change to lower dir that contains pyproject.toml then start virtual env
+    $ poetry shell
+    $ poetry env list
+    $ poetry add requests
+    $ poetry export --output requirements.txt
 
 
 
@@ -24,3 +24,4 @@
 https://realpython.com/pypi-publish-python-package/#poetry
 
 https://python-poetry.org/
+poetry export --output requirements.txt
